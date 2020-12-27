@@ -10,6 +10,6 @@
 
 	FileSystem
 	{
-		SteamAppId				730
+		SteamAppId				1007
 	}
 }
