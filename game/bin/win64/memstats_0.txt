@@ -1,0 +1,47 @@
+___ Begin jemalloc statistics ___
+Version: "0.0.0-0-g0000000000000000000000000000000000000000"
+Build-time option settings
+  config.cache_oblivious: true
+  config.debug: false
+  config.fill: true
+  config.lazy_lock: false
+  config.malloc_conf: ""
+  config.opt_safety_checks: false
+  config.prof: false
+  config.prof_libgcc: false
+  config.prof_libunwind: false
+  config.stats: false
+  config.utrace: false
+  config.xmalloc: false
+Run-time option settings
+  opt.abort: false
+  opt.abort_conf: false
+  opt.confirm_conf: false
+  opt.retain: false
+  opt.dss: "secondary"
+  opt.narenas: 64
+  opt.percpu_arena: "disabled"
+  opt.oversize_threshold: 8388608
+  opt.metadata_thp: "disabled"
+  opt.dirty_decay_ms: 10000 (arenas.dirty_decay_ms: 10000)
+  opt.muzzy_decay_ms: 0 (arenas.muzzy_decay_ms: 0)
+  opt.lg_extent_max_active_fit: 6
+  opt.junk: "false"
+  opt.zero: false
+  opt.tcache: true
+  opt.lg_tcache_max: 15
+  opt.thp: "not supported"
+  opt.stats_print: false
+  opt.stats_print_opts: ""
+Arenas: 65
+Quantum size: 16
+Page size: 4096
+Maximum thread-cached size class: 32768
+Number of bin size classes: 36
+Number of thread-cache bin size classes: 41
+Number of large size classes: 196
+--- End jemalloc statistics ---
+
+OS memory stats:
+Working set: 7,835,992,064
+Peak working set: 8,003,698,688
