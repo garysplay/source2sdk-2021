@@ -1,0 +1,696 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	m_Items = 
+	[
+		{
+			m_nGroup = 0
+			m_nRole = 0
+			m_Color = [ 182, 182, 183, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 0
+			m_Color = [ 120, 120, 121, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 0
+			m_Color = [ 152, 152, 153, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 1
+			m_Color = [ 73, 73, 73, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 1
+			m_Color = [ 73, 73, 73, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 1
+			m_Color = [ 73, 73, 73, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 2
+			m_Color = [ 110, 110, 110, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 2
+			m_Color = [ 110, 110, 110, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 2
+			m_Color = [ 110, 110, 110, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 3
+			m_Color = [ 91, 91, 91, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 3
+			m_Color = [ 91, 91, 91, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 3
+			m_Color = [ 91, 91, 91, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 4
+			m_Color = [ 42, 42, 42, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 4
+			m_Color = [ 42, 42, 42, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 4
+			m_Color = [ 42, 42, 42, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 5
+			m_Color = [ 58, 58, 58, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 5
+			m_Color = [ 58, 58, 58, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 5
+			m_Color = [ 58, 58, 58, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 6
+			m_Color = [ 182, 182, 183, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 6
+			m_Color = [ 120, 120, 121, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 6
+			m_Color = [ 152, 152, 153, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 7
+			m_Color = [ 200, 200, 200, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 7
+			m_Color = [ 120, 120, 121, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 7
+			m_Color = [ 152, 152, 153, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 8
+			m_Color = [ 182, 182, 183, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 8
+			m_Color = [ 120, 120, 121, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 8
+			m_Color = [ 152, 152, 153, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 9
+			m_Color = [ 38, 38, 39, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 9
+			m_Color = [ 38, 38, 39, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 9
+			m_Color = [ 38, 38, 39, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 10
+			m_Color = [ 54, 54, 54, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 10
+			m_Color = [ 54, 54, 54, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 10
+			m_Color = [ 54, 54, 54, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 11
+			m_Color = [ 0, 0, 0, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 11
+			m_Color = [ 0, 0, 0, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 11
+			m_Color = [ 0, 0, 0, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 12
+			m_Color = [ 79, 82, 89, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 12
+			m_Color = [ 79, 82, 89, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 12
+			m_Color = [ 79, 82, 89, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 13
+			m_Color = [ 255, 255, 255, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 13
+			m_Color = [ 255, 255, 255, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 13
+			m_Color = [ 255, 255, 255, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 14
+			m_Color = [ 182, 182, 183, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 14
+			m_Color = [ 120, 120, 121, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 14
+			m_Color = [ 152, 152, 153, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 15
+			m_Color = [ 182, 182, 183, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 15
+			m_Color = [ 120, 120, 121, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 15
+			m_Color = [ 152, 152, 153, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 16
+			m_Color = [ 55, 55, 55, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 16
+			m_Color = [ 55, 55, 55, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 16
+			m_Color = [ 55, 55, 55, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 17
+			m_Color = [ 255, 255, 255, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 17
+			m_Color = [ 255, 255, 255, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 17
+			m_Color = [ 255, 255, 255, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 18
+			m_Color = [ 54, 54, 54, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 18
+			m_Color = [ 54, 54, 54, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 18
+			m_Color = [ 54, 54, 54, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 19
+			m_Color = [ 182, 182, 183, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 19
+			m_Color = [ 120, 120, 121, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 19
+			m_Color = [ 152, 152, 153, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 20
+			m_Color = [ 255, 0, 0, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 20
+			m_Color = [ 255, 0, 0, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 20
+			m_Color = [ 255, 0, 0, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 21
+			m_Color = [ 65, 65, 65, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 22
+			m_Color = [ 75, 75, 75, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 23
+			m_Color = [ 115, 115, 114, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 24
+			m_Color = [ 46, 46, 46, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 25
+			m_Color = [ 46, 46, 46, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 26
+			m_Color = [ 35, 35, 35, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 27
+			m_Color = [ 0, 0, 0, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 28
+			m_Color = [ 0, 0, 0, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 29
+			m_Color = [ 255, 90, 90, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 30
+			m_Color = [ 92, 192, 99, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 31
+			m_Color = [ 96, 127, 193, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 32
+			m_Color = [ 182, 182, 183, 50 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 33
+			m_Color = [ 79, 82, 89, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 34
+			m_Color = [ 139, 155, 153, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 35
+			m_Color = [ 57, 57, 57, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 36
+			m_Color = [ 37, 37, 37, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 37
+			m_Color = [ 81, 81, 81, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 38
+			m_Color = [ 24, 24, 25, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 39
+			m_Color = [ 71, 71, 71, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 40
+			m_Color = [ 29, 29, 29, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 41
+			m_Color = [ 67, 67, 67, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 42
+			m_Color = [ 34, 34, 34, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 43
+			m_Color = [ 50, 50, 50, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 43
+			m_Color = [ 40, 40, 40, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 43
+			m_Color = [ 40, 40, 40, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 44
+			m_Color = [ 96, 96, 96, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 44
+			m_Color = [ 80, 80, 80, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 44
+			m_Color = [ 80, 80, 80, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 45
+			m_Color = [ 85, 85, 85, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 45
+			m_Color = [ 70, 70, 70, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 45
+			m_Color = [ 70, 70, 70, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 46
+			m_Color = [ 191, 119, 59, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 46
+			m_Color = [ 158, 104, 59, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 46
+			m_Color = [ 158, 104, 59, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 47
+			m_Color = [ 54, 54, 54, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 47
+			m_Color = [ 40, 40, 40, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 47
+			m_Color = [ 40, 40, 40, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 48
+			m_Color = [ 38, 38, 38, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 48
+			m_Color = [ 25, 25, 25, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 48
+			m_Color = [ 25, 25, 25, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 49
+			m_Color = [ 38, 38, 38, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 49
+			m_Color = [ 25, 25, 25, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 49
+			m_Color = [ 25, 25, 25, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 50
+			m_Color = [ 75, 75, 75, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 50
+			m_Color = [ 60, 60, 60, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 50
+			m_Color = [ 60, 60, 60, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 51
+			m_Color = [ 55, 55, 55, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 51
+			m_Color = [ 40, 40, 40, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 51
+			m_Color = [ 40, 40, 40, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 52
+			m_Color = [ 64, 64, 64, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 52
+			m_Color = [ 50, 50, 50, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 52
+			m_Color = [ 50, 50, 50, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 53
+			m_Color = [ 96, 96, 96, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 53
+			m_Color = [ 85, 94, 113, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 53
+			m_Color = [ 85, 94, 113, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 54
+			m_Color = [ 85, 94, 113, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 54
+			m_Color = [ 85, 94, 113, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 54
+			m_Color = [ 85, 94, 113, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 55
+			m_Color = [ 72, 80, 97, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 55
+			m_Color = [ 72, 80, 97, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 55
+			m_Color = [ 72, 80, 97, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 56
+			m_Color = [ 60, 60, 60, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 56
+			m_Color = [ 60, 60, 60, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 56
+			m_Color = [ 60, 60, 60, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 57
+			m_Color = [ 230, 230, 230, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 57
+			m_Color = [ 230, 230, 230, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 57
+			m_Color = [ 230, 230, 230, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 58
+			m_Color = [ 24, 24, 24, 255 ]
+		},
+		{
+			m_nGroup = 1
+			m_nRole = 58
+			m_Color = [ 35, 35, 35, 255 ]
+		},
+		{
+			m_nGroup = 2
+			m_nRole = 58
+			m_Color = [ 35, 35, 35, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 59
+			m_Color = [ 42, 42, 42, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 60
+			m_Color = [ 99, 102, 119, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 61
+			m_Color = [ 81, 91, 93, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 62
+			m_Color = [ 61, 71, 73, 255 ]
+		},
+		{
+			m_nGroup = 0
+			m_nRole = 63
+			m_Color = [ 152, 152, 153, 255 ]
+		},
+	]
+}

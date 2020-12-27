@@ -1,0 +1,109 @@
+QToolBar QPushButton {
+	padding: 0px; 
+	margin: 0px; 
+}
+
+QToolBar QToolButton, QToolBar QPushButton {
+	background-color: transparent;
+	margin-top : 0px;
+	margin-bottom : 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 2;
+	border-top: 0px;
+	border-bottom: 0px;
+	border-left: 1px solid transparent;
+	border-right: 1px solid transparent;
+	border-radius: 0px; 
+	height: 10px;
+}
+
+QToolBar QPushButton::menu-indicator {
+	image: url(toolimages:common/dropdown_menu_diagonal.png);
+	subcontrol-origin: padding;
+    subcontrol-position: bottom right;
+}
+
+QToolBar QToolButton[popupMode="1"] { 
+	padding-right: 8px; 
+}
+
+QToolBar QToolButton::menu-button { 
+	width: 8px; 
+}
+
+QToolBar QToolButton::menu-arrow {
+	image: url(toolimages:common/dropdown_menu_diagonal.png);
+}
+
+QToolBar QToolButton::menu-arrow:open {
+    top: 1px; left: 1px; /* shift it a bit */
+}
+
+QToolBar QToolButton:checked, QToolBar QPushButton::checked { 
+	background-color: #313131;
+	border-left: 1px solid #262626;
+	border-right: 1px solid #545454;
+}
+
+QToolBar QToolButton:pressed, QToolBar QPushButton::pressed { 
+	background-color: QLinearGradient( x1 : 0, y1 : 0, x2 : 0, y2 : 1, stop : 0 #373737, stop: 1 #474747 ); 
+	border-left: 1px solid #262626;
+	border-right: 1px solid #545454;
+}
+
+QToolBar QToolButton:hover, QToolBar QPushButton::hover { 
+	border-left: 1px solid QLinearGradient( x1 : 0, y1 : 0, x2 : 0, y2 : 1, stop : 0 #656565, stop: 0.5 #BBBBBB, stop: 1 #656565 ); 
+	border-right: 1px solid QLinearGradient( x1 : 0, y1 : 0, x2 : 0, y2 : 1, stop : 0 #656565, stop: 0.5 #BBBBBB, stop: 1 #656565 ); 
+}
+
+QToolBar {
+	background-color: QLinearGradient( x1 : 0, y1 : 0, x2 : 0, y2 : 1, stop : 0 #5C5C5C, stop: 1 #3C3C3C ); 
+	border: none; 
+	margin: 0; 
+	padding: 0px;
+	min-height: 8px;
+}
+
+
+QScrollBar:horizontal { 
+	background: #484848; 
+	height: 14px; 
+	margin: 0px 0px 0px 0px; 
+	border : 0; 
+}
+
+QScrollBar:vertical { 
+	background: #484848; 
+	width: 14px; 
+	margin: 0px 0px 0px 0px; 
+	border : 0; 
+}
+
+QScrollBar::handle:horizontal { 
+	background: #323232;
+	min-width: 15px; 
+	margin: 3px 3px 3px 3px; 
+}
+
+QScrollBar::handle:vertical { 
+	background: #323232; 
+	min-height: 15px; 
+	margin: 3px 3px 3px 3px; 
+}
+
+QScrollBar::handle:pressed { 
+	background: #5069b0; 
+}
+
+QScrollBar::add-line { 
+	width: 0px; 
+}
+
+QScrollBar::sub-line { 
+	width: 0px; 
+}
+
+QScrollBar::add-page, QScrollBar::sub-page { 
+	background: none; 
+}
