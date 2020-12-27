@@ -10,5 +10,7 @@ run tools.bat for tools
 
 - Originally created by SB_MerkaviX
 
-- Source 2 PFSK https://github.com/pyyii/Source2-PFSK for original idea!
+- Source 2 PFSK https://github.com/pyyii/Source2-PFSK for nonvr fps features
+
+- Source 2 Mod https://github.com/Demez/source2-mod for original idea
 
