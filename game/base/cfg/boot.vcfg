@@ -1,0 +1,5 @@
+"boot"
+{
+	"DefaultRenderSystemOption"		"-dx11"
+	"RenderSystemOptionFlags"		"0x0000000000000001"
+}

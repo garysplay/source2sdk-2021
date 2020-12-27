@@ -1,0 +1,322 @@
+{
+   "supports_dominant_hand_setting": true,
+   "action_sets" : [
+      {
+         "name" : "/actions/dev",
+         "usage" : "leftright"
+      },
+      {
+         "name": "/actions/scroll",
+         "usage": "leftright"
+      },
+      {
+         "name" : "/actions/default",
+         "usage" : "leftright"
+      },
+      {
+         "name" : "/actions/move",
+         "usage" : "leftright"
+      },
+      {
+         "name" : "/actions/weapon",
+         "usage" : "leftright"
+      },
+      {
+         "name" : "/actions/interact",
+         "usage" : "leftright"
+      }
+   ],
+   "actions" : [
+      {
+         "name" : "/actions/dev/in/ToggleMenu",
+         "requirement" : "mandatory",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/dev/in/MenuInteract",
+         "requirement" : "mandatory",		 
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/dev/in/MenuDismiss",
+         "requirement" : "mandatory",
+         "type" : "boolean"
+      },
+      {
+         "name": "/actions/scroll/in/Scroll",
+         "type": "vector2"
+      },
+      {
+         "name": "/actions/scroll/in/ScrollTouchPad",
+         "type": "vector2"
+      },
+      {
+         "name" : "/actions/move/in/Teleport",
+         "requirement" : "mandatory",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/move/in/TurnLeft",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/move/in/TurnRight",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/move/in/MoveBack",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/move/in/TeleportTurn",
+         "requirement" : "mandatory",
+         "type": "vector2"
+      },
+      {
+         "name" : "/actions/move/in/ContinuousTurn",
+         "type": "vector2"
+      },
+      {
+         "name" : "/actions/move/in/Walk",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/move/in/ShiftDashJump",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/move/in/WalkMantle",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/move/in/MoveCrouchToggle",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/move/in/MoveStandToggle",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/move/in/AdjustHeight",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/interact/in/Use",
+         "requirement" : "mandatory",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/interact/in/UseGrip",
+         "type" : "boolean"
+      },
+      {
+         "name": "/actions/weapon/in/ShowInventory",
+         "requirement" : "mandatory",
+         "type": "boolean"
+      },
+      {
+         "name" : "/actions/default/in/HandCurl",
+         "type" : "vector1"
+      },
+      {
+         "name" : "/actions/default/in/TriggerPull",
+         "type" : "vector1"
+      },
+      {
+         "name" : "/actions/default/in/FingerCurlThumb",
+         "type" : "vector1"
+      },
+      {
+         "name" : "/actions/default/in/FingerCurlIndex",
+         "type" : "vector1"
+      },
+      {
+         "name" : "/actions/default/in/FingerCurlMiddle",
+         "type" : "vector1"
+      },
+      {
+         "name" : "/actions/default/in/FingerCurlRing",
+         "type" : "vector1"
+      },
+      {
+         "name" : "/actions/default/in/FingerCurlPinky",
+         "type" : "vector1"
+      },
+      {
+         "name" : "/actions/interact/in/SqueezeXenGrenade",
+         "type" : "vector1"
+      },
+      {
+         "name" : "/actions/interact/in/GGLock",
+         "requirement" : "mandatory",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/weapon/in/Fire",
+         "requirement" : "mandatory",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/weapon/in/AltFire",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/weapon/in/Reload",
+         "requirement" : "mandatory",
+         "type" : "boolean"
+      },
+      {
+         "name": "/actions/weapon/in/EjectClip",
+         "requirement" : "mandatory",
+         "type": "boolean"
+      },
+      {
+         "name" : "/actions/weapon/in/ReleaseSlide",
+         "requirement" : "mandatory",
+         "type" : "boolean"
+      },
+      {
+         "name": "/actions/weapon/in/OpenChamber",
+         "requirement" : "mandatory",
+         "type": "boolean"
+      },
+      {
+         "name" : "/actions/interact/in/ToggleLaserSight",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/weapon/in/ToggleBurstFire",
+         "requirement" : "mandatory",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/interact/in/HealthPen",
+         "requirement" : "mandatory",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/interact/in/ArmGrenade",
+         "requirement" : "mandatory",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/interact/in/ArmXenGrenade",
+         "requirement" : "mandatory",
+         "type" : "boolean"
+      },
+      {
+         "name" : "/actions/default/in/HandPoseLeft",
+         "type" : "pose"
+      },
+      {
+         "name" : "/actions/default/in/HandPoseRight",
+         "type" : "pose"
+      },
+      {
+         "name" : "/actions/default/in/HandSkeletonLeft",
+         "skeleton" : "/skeleton/hand/left",
+         "type" : "skeleton"
+      },
+      {
+         "name" : "/actions/default/in/HandSkeletonRight",
+         "skeleton" : "/skeleton/hand/right",
+         "type" : "skeleton"
+      },
+      {
+         "name" : "/actions/default/in/HapticVibration",
+         "type" : "vibration"
+      }
+   ],
+   "default_bindings" : [
+      {
+         "binding_url" : "bindings_vive_controller.json",
+         "controller_type" : "vive_controller"
+      },
+      {
+         "binding_url" : "bindings_vive_controller_left.json",
+         "controller_type" : "vive_controller"
+      },
+      {
+         "binding_url" : "bindings_vive_controller_single.json",
+         "controller_type" : "vive_controller"
+      },
+      {
+         "binding_url" : "bindings_knuckles.json",
+         "controller_type" : "knuckles"
+      },
+      {
+         "binding_url" : "bindings_knuckles_left.json",
+         "controller_type" : "knuckles"
+      },
+      {
+         "binding_url" : "bindings_knuckles_single.json",
+         "controller_type" : "knuckles"
+      },
+      {
+         "binding_url" : "bindings_touch.json",
+         "controller_type" : "oculus_touch"
+      },
+      {
+         "binding_url" : "bindings_touch_left.json",
+         "controller_type" : "oculus_touch"
+      },
+      {
+         "binding_url" : "bindings_touch_single.json",
+         "controller_type" : "oculus_touch"
+      },
+      {
+         "binding_url" : "bindings_holographic_controller.json",
+         "controller_type" : "holographic_controller"
+      },
+      {
+         "binding_url" : "bindings_holographic_controller_left.json",
+         "controller_type" : "holographic_controller"
+      },
+      {
+         "binding_url" : "bindings_holographic_controller_single.json",
+         "controller_type" : "holographic_controller"
+      },
+      {
+         "binding_url" : "bindings_vive_cosmos.json",
+         "controller_type" : "vive_cosmos_controller"
+      },
+      {
+         "binding_url" : "bindings_vive_cosmos_left.json",
+         "controller_type" : "vive_cosmos_controller"
+      },
+      {
+         "binding_url" : "bindings_vive_cosmos_single.json",
+         "controller_type" : "vive_cosmos_controller"
+      }
+   ],
+  "localization_files": {
+    "en_US" : "actions_en_US.json",
+    "bg_BG" : "actions_bg_BG.json",
+    "cs_CZ" : "actions_cs_CZ.json",
+    "da_DK" : "actions_da_DK.json",
+    "de_DE" : "actions_de_DE.json",
+    "el_GR" : "actions_el_GR.json",
+    "es_ES" : "actions_es_ES.json",
+    "es_MX" : "actions_es_MX.json",
+    "fi_FI" : "actions_fi_FI.json",
+    "fr_FR" : "actions_fr_FR.json",
+    "hu_HU" : "actions_hu_HU.json",
+    "it_IT" : "actions_it_IT.json",
+    "ja_JP" : "actions_ja_JP.json",
+    "ko_KR" : "actions_ko_KR.json",
+    "nb_NO" : "actions_nb_NO.json",
+    "nl_NL" : "actions_nl_NL.json",
+    "pl_PL" : "actions_pl_PL.json",
+    "pt_BR" : "actions_pt_BR.json",
+    "pt_PT" : "actions_pt_PT.json",
+    "ro_RO" : "actions_ro_RO.json",
+	"ru_RU"	: "actions_ru_RU.json",
+    "sv_SE" : "actions_sv_SE.json",
+    "th_TH" : "actions_th_TH.json",
+    "tr_TR" : "actions_tr_TR.json",
+    "uk_UA" : "actions_uk_UA.json",
+    "vi_VN" : "actions_vi_VN.json",
+    "zh_CN" : "actions_zh_CN.json",
+    "zh_TW" : "actions_zh_TW.json"
+  }
+  }
