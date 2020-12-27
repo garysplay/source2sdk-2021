@@ -24,7 +24,7 @@
 
 		"SEMICOLON"	"inv_cycle -1"
 		"'"		"inv_cycle 1"
-		"SPACE"		"phys_jump"
+		"SPACE"		"+jump"
 		"TAB"		"toggle stats_display"
 
 		"SHIFT"		"+iv_sprint"
@@ -47,7 +47,7 @@
 		"R_SHOULDER"	"+iv_lookspin"
 		"L_TRIGGER"	"+iv_attack2"
 		"R_TRIGGER"	"+iv_attack"
-		"A_BUTTON"	"phys_jump"
+		"A_BUTTON"	"jump"
 		"B_BUTTON"	"+iv_reload"
 		"X_BUTTON"	"+iv_use"
 		"Y_BUTTON"	"lastinv"

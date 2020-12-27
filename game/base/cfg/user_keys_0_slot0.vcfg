@@ -1,3 +1,8 @@
 "config"
 {
+	"bindings"
+	{
+		"f"		"toggle_flashlight"
+		"SPACE"		"+jump"
+	}
 }
