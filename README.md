@@ -1,17 +1,10 @@
 # Source 2 SDK
 Project for creating a custom Source 2 SDK
-## Installing
+## Installing or Cloning
 
-Use the rar in releases to install
+Download all the files either cloning or using download
 
-## **Cloning**
-
-**Make sure to have git lfs installed https://git-lfs.github.com/**
-
-**and type the command `git lfs install` afterwards to cmd or terminal**
-
-**It is used so large .vpk files can be uploaded to git**
-
+run tools.bat for tools
 
 ## Credits:
 
