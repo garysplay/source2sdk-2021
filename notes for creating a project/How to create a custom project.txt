@@ -1,0 +1,2 @@
+- Edit out the gameinfo.gi to your prefered project name
+- Add a custom shortcut using a executable metadata editing software
