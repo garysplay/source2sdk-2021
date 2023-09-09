@@ -1,4 +1,4 @@
-# Source 2 SDK
+# Source 2 SDK 2021
 Project for creating a custom Source 2 SDK
 ## Installing or Cloning
 
@@ -12,7 +12,9 @@ run tools.bat for tools
 
 ## Credits:
 
-- Originally created by SB_MerkaviX
+- Originally created by kas
+
+- Later commits are from DorukSega
 
 - Source 2 PFSK https://github.com/pyyii/Source2-PFSK for nonvr fps features
 
